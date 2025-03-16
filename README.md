@@ -1,4 +1,4 @@
-# Smart Inventory Optimization
+# SmartStock: AI-Driven Supply & Demand Optimization
 
 ## Overview
 This project implements a **Genetic Algorithm** for optimizing inventory levels in e-commerce or retail. It utilizes **Fuzzy Logic** for demand prediction and optimizes stock levels to minimize holding and shortage costs.
